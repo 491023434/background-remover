@@ -9,7 +9,7 @@
 **English:** This is a repository for a free, online AI Background Changer. This tool intelligently identifies the main subject in any photo and allows you to replace the background instantly using text descriptions. It's perfect for ID photos, product images, portraits, and more.
 
 **中文简介：**
-免费在线 AI 换背景工具，AI 智能识别主体并更换图片背景。一键实现证件照换背景、图片换纯色背景、创意背景替换，保持原图高清质量，完全免费使用。
+免费在线 AI 换背景工具，AI 智能识别主体并更换图片背景。一键实现证件照换背景、图片换纯色背景、创意背景替换，保持原图高清质量，完全免费使用
 
 ## ➡️ [**立即免费在线 AI 换背景 (Click to Use for Free)**](https://www.duduac.com/zh/change-background/free-online-ai-change-background)
 
